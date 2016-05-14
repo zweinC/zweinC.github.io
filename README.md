@@ -1,2 +1,2 @@
 # zweinC.github.io
-Just Writing & Improving!
+Just Writing Sharing & Improving!
